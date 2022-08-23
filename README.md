@@ -1,4 +1,4 @@
-# project
+# Live Location Tracker app
 
 Developed a flutter based application which allows users to create groups and share their location on map. 
 Here I implemented User Authentication, Google Maps API using Firebase Cloud Firestore as database.
